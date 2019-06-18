@@ -5,7 +5,7 @@ DATA_DIR: '../data/coco'
 GPU_ID: 3
 WORKERS: 1
 
-B_VALIDATION: False
+B_VALIDATION: True
 TREE:
     BRANCH_NUM: 3
 
